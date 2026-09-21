@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "49c83f75-a6d2-48d4-9ed5-e2c0e86e34c8",
+    "name": "TV Share",
+    "description": "Share selected movies through a separate Jellyfin library without copying them.",
+    "overview": "Share selected movies without copying them",
+    "owner": "Candy Raton",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.1.0",
+        "changelog": "Link individual movie files and allow removal of broken links.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/releases/v1.0.1/tv-share_1.0.1.0.zip",
+        "checksum": "0656b832948ee302e5889d42ededab73",
+        "timestamp": "2026-09-21T21:30:45Z"
+      }
+    ]
+  }
+]
