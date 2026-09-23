@@ -6,14 +6,15 @@
     "overview": "Share selected movies without copying them",
     "owner": "Candy Raton",
     "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/images/tv-share.png",
     "versions": [
       {
-        "version": "1.0.1.0",
-        "changelog": "Link individual movie files and allow removal of broken links.",
+        "version": "1.0.2.0",
+        "changelog": "Add a folder picker and display useful errors when adding a movie fails.",
         "targetAbi": "12.0.0.0",
-        "sourceUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/releases/v1.0.1/tv-share_1.0.1.0.zip",
-        "checksum": "0656b832948ee302e5889d42ededab73",
-        "timestamp": "2026-09-21T21:30:45Z"
+        "sourceUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/releases/v1.0.2/tv-share_1.0.2.0.zip",
+        "checksum": "f5d17dcd5a50cd2725ece22aa5a3cd62",
+        "timestamp": "2026-09-23T04:40:37Z"
       }
     ]
   }
