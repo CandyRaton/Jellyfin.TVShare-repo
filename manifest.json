@@ -9,12 +9,12 @@
     "imageUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/images/tv-share.png",
     "versions": [
       {
-        "version": "1.0.2.0",
-        "changelog": "Add a folder picker and display useful errors when adding a movie fails.",
+        "version": "1.0.3.0",
+        "changelog": "Filter movies by selected folders and show an updated removable list of shared movies.",
         "targetAbi": "12.0.0.0",
-        "sourceUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/releases/v1.0.2/tv-share_1.0.2.0.zip",
-        "checksum": "f5d17dcd5a50cd2725ece22aa5a3cd62",
-        "timestamp": "2026-09-23T04:40:37Z"
+        "sourceUrl": "https://raw.githubusercontent.com/CandyRaton/Jellyfin.TVShare-repo/main/releases/v1.0.3/tv-share_1.0.3.0.zip",
+        "checksum": "695db7ff30a59b664a7689313c059879",
+        "timestamp": "2026-09-23T05:49:02Z"
       }
     ]
   }
